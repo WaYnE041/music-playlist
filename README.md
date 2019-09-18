@@ -3,7 +3,7 @@
 This is a program that plays music on your computer if you provide the name.
 Whether its through a command line argument, or a file listing all the names.
 
-The program also allows for you to skip forward and backwards on tracks you've selected.
+The program also allows for you to skip forward and backwards on tracks you've selected as well as choose a specific song.
 
 This program only works for windows.
   You will need mingw for this to work.
